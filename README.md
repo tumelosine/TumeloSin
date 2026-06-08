@@ -1,4 +1,4 @@
-# Hi, I'm TumeloSine
+# Hi, I'm tumelosine
 
 Fullstack Developer building responsive apps with  React, Python, Django, Java & Node.js · Backed by 15+ Meta & FNB certifications · Open to junior roles
 
