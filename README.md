@@ -1,7 +1,6 @@
 # Hi, I'm TumeloSine
 
-Fullstack developer passionate about building clean, user-friendly web applications.
-Fullstack developer building clean, user-friendly web applications. Open to junior roles.
+Fullstack Developer building responsive apps with  React, Python, Django, Java & Node.js · Backed by 15+ Meta & FNB certifications · Open to junior roles
 
 -  Meta Frontend & Backend Developer Certificate
 - Currently building with React, Node.js, Python/Django & Java
